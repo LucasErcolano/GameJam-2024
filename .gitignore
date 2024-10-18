@@ -72,3 +72,8 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+*.log
+*.ini
+*.bin
+GameJam2024/Saved/Telemetry/Telemetry.json
+GameJam2024/Saved/AutoScreenshot.png
