@@ -77,3 +77,7 @@ DerivedDataCache/*
 *.bin
 GameJam2024/Saved/Telemetry/Telemetry.json
 GameJam2024/Saved/AutoScreenshot.png
+*.bin
+*.ini
+*.log
+/GameJam2024/Saved

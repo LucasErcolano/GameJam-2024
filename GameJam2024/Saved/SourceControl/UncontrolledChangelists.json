@@ -5,6 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/UnrealProject/GameJam-2024/GameJam2024/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"E:/UnrealProject/GameJam-2024/GameJam2024/Content/Audio/170515__rolandasb__forest_ambient_01_loop.uasset",
+				"E:/UnrealProject/GameJam-2024/GameJam2024/Content/Audio/Grass_Footstep.uasset",
+				"E:/UnrealProject/GameJam-2024/GameJam2024/Content/Audio/Danage_Grount.uasset",
+				"E:/UnrealProject/GameJam-2024/GameJam2024/Content/Audio/Attack_Grount.uasset",
+				"E:/UnrealProject/GameJam-2024/GameJam2024/Content/Audio/Wave.uasset",
+				"E:/UnrealProject/GameJam-2024/GameJam2024/Content/Characters/Mannequins/Animations/Manny/Push.uasset",
+				"E:/UnrealProject/GameJam-2024/GameJam2024/Content/Levels/WavesMap.umap",
 				"C:/Users/juanc/OneDrive/Escritorio/GameJam-2024/GameJam2024/Content/Assets/meat/meatloadhi.uasset",
 				"C:/Users/juanc/OneDrive/Escritorio/GameJam-2024/GameJam2024/Content/Assets/meat/Material__30.uasset",
 				"C:/Users/juanc/OneDrive/Escritorio/GameJam-2024/GameJam2024/Content/Assets/meat/meatloadhi_Skeleton.uasset",
@@ -113,8 +121,7 @@
 				"C:/Users/juanc/OneDrive/Escritorio/GameJam-2024/GameJam2024/Content/Assets/goblin/surfaceShader1.uasset",
 				"C:/Users/juanc/OneDrive/Escritorio/GameJam-2024/GameJam2024/Content/Assets/goblin/Goblin.uasset",
 				"C:/Users/juanc/OneDrive/Escritorio/GameJam-2024/GameJam2024/Content/Assets/goblin/Goblin_Diffuse.uasset",
-				"C:/Users/juanc/OneDrive/Escritorio/GameJam-2024/GameJam2024/Content/Assets/weapons/Material__30.uasset",
-				"E:/UnrealProject/GameJam-2024/GameJam2024/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+				"C:/Users/juanc/OneDrive/Escritorio/GameJam-2024/GameJam2024/Content/Assets/weapons/Material__30.uasset"
 			]
 		}
 	]
